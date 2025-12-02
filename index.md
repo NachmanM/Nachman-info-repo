@@ -12,4 +12,4 @@ Check out my repos!
 
 Project Name                        Link
 Repo 1                              $(repo_url)
-Repo 2                              https://github.com/NachmanM/mtc-repo-infra-key
+Repo 2                              https://github.com/NachmanM/mtc-repo-backend-key
